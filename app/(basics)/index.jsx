@@ -107,6 +107,7 @@ const index = () => {
       renderItem={({item}) => (
         <View>
           <Text>{item.name}</Text>
+          {/* Flatlist ends here  */}
           </View>
 
       )}
